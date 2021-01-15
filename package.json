@@ -1,0 +1,11 @@
+{
+  "name": "twitch-wiefbods-backend",
+  "version": "1.0.0",
+  "description": "Back of the application that help to raise viewers on twitch.tv straming platform",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
